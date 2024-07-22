@@ -1,0 +1,28 @@
+Socket IO with Node.js
+-------------------------
+
+
+
+1.  npm init
+
+2.  package name: (backend) crypto-prices
+
+3.  npm i express
+
+4.  npm i https socket.io
+
+5.  run node porject command: node index.js
+
+6.  npm install i
+
+7. npm install -g nodemon ( old command: npm i nodemon )
+
+8. nodemon index.js ( run command )
+
+9. npm i axios
+
+
+axios : https://github.com/axios/axios
+
+10. npm i dotenv
+

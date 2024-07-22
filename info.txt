@@ -1,0 +1,113 @@
+
+
+Create Socket IO for instant message app
+=========================================
+
+
+Step 1 :
+
+	3.1 Creating Node JS Application
+
+	Youtube video link : https://youtu.be/CY_Hc4ivZrg?si=pO1hKLBwM7czDZjS
+
+Step 2:
+
+	3.2 Installing the Required Libraries
+
+	Youtube video link: https://youtu.be/DYoN1QtIPeI?si=oL8GiErIkBf3KzTY
+
+Step 3:
+
+       3.3 Running Backend Applications
+
+	Youtube Video Link: https://youtu.be/m7qplQqX2Ss?si=RqzRgT3RmiX4cK_k
+
+Step 4: 
+
+      3.4 Watch Code Changes
+	
+	Youtube Video Link : https://youtu.be/GFtLXRo9xkQ?si=ZTUc88vpTHkypzJL
+
+Step 5:
+
+      3.5 Creating Web Server
+
+       Youtube Video Link:  https://youtu.be/Fc8EkE4edgk?si=sFMLC90BzOjPnp2T
+
+Step 6: 
+
+     3.6 Create WebSocket Connection
+
+     Youtube Video Link: https://youtu.be/_Nv9-alNSRU?si=vINJFbjlMeoSL7eL
+
+Step 7:
+
+     3.7 Testing WebSocket Connection Using PostMan
+
+     Youtube Video Link: https://youtu.be/iI3RJwHOljY?si=ZQoav5IdifTPW-SK
+
+Step 8:
+
+     3.8 Send a Messge From Server to Client
+
+     Youtube Video Link: https://youtu.be/UM49CUWACUk?si=cHGes8IRcvaz8DB4
+
+Step 9 :
+
+     3.9 Check Client Disconnected or Connection Error
+
+     Youtube Video Link: https://youtu.be/BtZ_DpjfKTs?si=wXhu4YWwxlsQ6Mbp
+
+Step 10:
+
+     4.1 Overview For Prices API
+
+     Youtube Video Link: https://youtu.be/tQXbrpKYhDU?si=rhjBmBW7LGZcV0p_
+
+Step 11:
+
+     4.2 Fetch API Prices Data
+
+     Youtube Video Link:  https://youtu.be/nXVlKoRZ6Ok?si=C487AY1nLP0c-MFt
+
+axios : https://github.com/axios/axios
+
+Step 12:
+
+      4.3 Using Environment Variables
+
+      Youtube Video Link : https://youtu.be/BHlExr7CMSI?si=Irmqmc4dvVBuFqIL
+
+Step 13:
+
+     4.4 Simplify Response Data
+
+     Youtube Video Link:  https://youtu.be/5_NXI97pzqE?si=qwbWvru5opUZN6yh
+
+Step 14:
+
+     4.5 Send Prices Data Through the WebSocket
+
+     Youtube Video Link: https://youtu.be/8-89v3R27Yw?si=7e-xVsjV-ZqaPDGj
+
+
+
+
+
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

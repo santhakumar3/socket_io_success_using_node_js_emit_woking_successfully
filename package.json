@@ -1,0 +1,20 @@
+{
+  "name": "crypto-prices",
+  "version": "1.0.0",
+  "description": "the live prices of cryptos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "santha kumar",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "https": "^1.0.0",
+    "i": "^0.3.7",
+    "nodemon": "^3.1.4",
+    "socket.io": "^4.7.5"
+  }
+}
